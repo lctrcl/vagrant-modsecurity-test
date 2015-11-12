@@ -9,8 +9,8 @@ Note: This host is only for testing modsecurity rules.
 To use:
 
 ```bash
-git clone https://github.com/xpn/vagrant-modsec.git
-cd vagrant-node
+git clone https://github.com/lctrcl/vagrant-modsecurity-test.git
+cd vagrant-modsecurity-test
 vagrant up
 ```
 
